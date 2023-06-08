@@ -1,6 +1,6 @@
 
 # OPTICAL CHARACTER RECOGNITION
- OCR is a process to convert an image of text into machine readable text format.
+ ORC is a process to convert an image of text into machine readable text format.
 So, In this project I used pytesseract to convert an image full of paragraphs to words and I used YOLOv8 for object detection in an image.
 
 
